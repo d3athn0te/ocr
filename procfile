@@ -1,1 +1,2 @@
 worker : python ocr.py
+worker : python simpleocr.py
